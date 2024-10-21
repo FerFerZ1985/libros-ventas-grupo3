@@ -1,0 +1,59 @@
+.navbar-gradient{
+    background: linear-gradient(to right, #bdbbbe, #3f4146);
+}
+
+.navbar-brand img {
+    border-radius: 10%;
+}
+
+.dropdown-item {
+    color: white !important;
+}
+.dropdown-item:hover, .dropdown-item:focus{
+        background-color: #d8828b;
+
+}
+
+.small-img{
+    height: 600px;
+}
+
+.carousel-img{
+    height: 700px;
+}
+
+.titulo{
+    background: linear-gradient(to right, #bdbbbe, #3f4146);
+}
+.card-wrapper{
+    padding-top:15px;
+    display: flex;
+}
+.card {
+    margin: 0 .5em;
+    width: calc(400%/5);
+    background: #dc3545;
+}
+.image-wrapper{
+    height: 15vw;
+    margin: auto;
+    padding: 15px;
+}
+.image-wrapper img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.titulo {
+    margin-top: 25px;
+    text-align: center;
+    background-color: #6c757d;
+    padding: 10px;
+    color: white; 
+    border-radius: 5px; 
+}
+
+footer {
+    width: 100%;
+    border-radius:10px ;
+    margin-bottom: 10px;
+}
