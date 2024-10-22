@@ -48,6 +48,14 @@ body {
     max-width: 100%;
     max-height: 100%;
 }
+.card-title{
+    color: white;
+    margin: auto;
+}
+.card-text{
+    color: white;
+}
+
 .titulo {
     margin-top: 25px;
     text-align: center;
